@@ -81,7 +81,7 @@ def main():
                 currentGuess = possibleWords[0]
                 possibleWords.remove(currentGuess)
                 print("Input {} as your next guess".format(currentGuess))
-    print("Ran our of guesses :(") #theoretically impossible with this bot
+    print("Ran out of guesses :(") #theoretically impossible with this bot
 
 if __name__ == "__main__":
     #initialize all variables including list of all word guesses and variables used to rule out guesses
