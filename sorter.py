@@ -48,157 +48,157 @@ for word in words:
     for letter in word:
         if letter == 'a':
             if letter in currentwordletters:
-                wordscore += (aratio / 2)
+                wordscore += (aratio / 3)
             else:
                 wordscore += aratio
             currentwordletters.append(letter)
         if letter == 'b':
             if letter in currentwordletters:
-                wordscore += (bratio / 2)
+                wordscore += (bratio / 3)
             else:
                 wordscore += bratio
             currentwordletters.append(letter)
         if letter == 'c':
             if letter in currentwordletters:
-                wordscore += (cratio / 2)
+                wordscore += (cratio / 3)
             else:
                 wordscore += cratio
             currentwordletters.append(letter)
         if letter == 'd':
             if letter in currentwordletters:
-                wordscore += (dratio / 2)
+                wordscore += (dratio / 3)
             else:
                 wordscore += dratio
             currentwordletters.append(letter)
         if letter == 'e':
             if letter in currentwordletters:
-                wordscore += (eratio / 2)
+                wordscore += (eratio / 3)
             else:
                 wordscore += eratio
             currentwordletters.append(letter)
         if letter == 'f':
             if letter in currentwordletters:
-                wordscore += (fratio / 2)
+                wordscore += (fratio / 3)
             else:
                 wordscore += fratio
             currentwordletters.append(letter)
         if letter == 'g':
             if letter in currentwordletters:
-                wordscore += (gratio / 2)
+                wordscore += (gratio / 3)
             else:
                 wordscore += gratio
             currentwordletters.append(letter)
         if letter == 'h':
             if letter in currentwordletters:
-                wordscore += (hratio / 2)
+                wordscore += (hratio / 3)
             else:
                 wordscore += hratio
             currentwordletters.append(letter)
         if letter == 'i':
             if letter in currentwordletters:
-                wordscore += (iratio / 2)
+                wordscore += (iratio / 3)
             else:
                 wordscore += iratio
             currentwordletters.append(letter)
         if letter == 'j':
             if letter in currentwordletters:
-                wordscore += (jratio / 2)
+                wordscore += (jratio / 3)
             else:
                 wordscore += jratio
             currentwordletters.append(letter)
         if letter == 'k':
             if letter in currentwordletters:
-                wordscore += (kratio / 2)
+                wordscore += (kratio / 3)
             else:
                 wordscore += kratio
             currentwordletters.append(letter)
         if letter == 'l':
             if letter in currentwordletters:
-                wordscore += (lratio / 2)
+                wordscore += (lratio / 3)
             else:
                 wordscore += lratio
             currentwordletters.append(letter)
         if letter == 'm':
             if letter in currentwordletters:
-                wordscore += (mratio / 2)
+                wordscore += (mratio / 3)
             else:
                 wordscore += mratio
             currentwordletters.append(letter)
         if letter == 'n':
             if letter in currentwordletters:
-                wordscore += (nratio / 2)
+                wordscore += (nratio / 3)
             else:
                 wordscore += nratio
             currentwordletters.append(letter)
         if letter == 'o':
             if letter in currentwordletters:
-                wordscore += (oratio / 2)
+                wordscore += (oratio / 3)
             else:
                 wordscore += oratio
             currentwordletters.append(letter)
         if letter == 'p':
             if letter in currentwordletters:
-                wordscore += (pratio / 2)
+                wordscore += (pratio / 3)
             else:
                 wordscore += pratio
             currentwordletters.append(letter)
         if letter == 'q':
             if letter in currentwordletters:
-                wordscore += (qratio / 2)
+                wordscore += (qratio / 3)
             else:
                 wordscore += qratio
             currentwordletters.append(letter)
         if letter == 'r':
             if letter in currentwordletters:
-                wordscore += (rratio / 2)
+                wordscore += (rratio / 3)
             else:
                 wordscore += rratio
             currentwordletters.append(letter)
         if letter == 's':
             if letter in currentwordletters:
-                wordscore += (sratio / 2)
+                wordscore += (sratio / 3)
             else:
                 wordscore += sratio
             currentwordletters.append(letter)
         if letter == 't':
             if letter in currentwordletters:
-                wordscore += (tratio / 2)
+                wordscore += (tratio / 3)
             else:
                 wordscore += tratio
             currentwordletters.append(letter)
         if letter == 'u':
             if letter in currentwordletters:
-                wordscore += (uratio / 2)
+                wordscore += (uratio / 3)
             else:
                 wordscore += uratio
             currentwordletters.append(letter)
         if letter == 'v':
             if letter in currentwordletters:
-                wordscore += (vratio / 2)
+                wordscore += (vratio / 3)
             else:
                 wordscore += vratio
             currentwordletters.append(letter)
         if letter == 'w':
             if letter in currentwordletters:
-                wordscore += (wratio / 2)
+                wordscore += (wratio / 3)
             else:
                 wordscore += wratio
             currentwordletters.append(letter)
         if letter == 'x':
             if letter in currentwordletters:
-                wordscore += (xratio / 2)
+                wordscore += (xratio / 3)
             else:
                 wordscore += xratio
             currentwordletters.append(letter)
         if letter == 'y':
             if letter in currentwordletters:
-                wordscore += (yratio / 2)
+                wordscore += (yratio / 3)
             else:
                 wordscore += yratio
             currentwordletters.append(letter)
         if letter == 'z':
             if letter in currentwordletters:
-                wordscore += (zratio / 2)
+                wordscore += (zratio / 3)
             else:
                 wordscore += zratio
             currentwordletters.append(letter)
